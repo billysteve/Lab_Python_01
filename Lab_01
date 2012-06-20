@@ -1,0 +1,35 @@
+ exercise 1
+1. x,length,NUMBER
+2. 1= BOOLEAN
+   2= FLOAT
+   3= STRING
+   4= INT
+   5= STRING
+   6= INT
+   7= UNKNOWN DATA TYPE
+   8= BOOLEAN
+   9= STRING
+   10= STRING
+
+ EXERCISE 2
+1. FALSE
+2. TRUE
+3. TRUE
+4. TRUE
+
+EXERCISE 3
+1. 5/2 = 2
+2. 5/2.0 = 2.5
+3. 5.0/2 =2.5
+4. 7*(1/2) = 0
+5. 7*(1/2.0) = 3.5
+6.5**2 = 25
+7. 5.0**2 =25.0
+8. 5**2.0 = 25.0
+9. 1/3 = 0
+10. 1/3.0 = 0.333333333
+
+EXERCISE 4
+in the userinput.py file
+
+
